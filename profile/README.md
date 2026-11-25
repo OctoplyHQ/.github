@@ -18,11 +18,11 @@
 
 ---
 
-We work at the level of systems: how waste, water and energy connect, rather
-than optimising any one of them. Ideas are tested on working assets on the
-tidal Thames, and each project is held together at Octoply until it is ready
-to be its own organisation. We work with other organisations, institutions
-and people.
+We work at the level of systems architecture: how waste, water and energy
+connect, rather than optimising any one of them. Our ideas are tested on
+licensed floating venues on the tidal Thames. When a project can run without
+us, it becomes a separate organisation. Tamesis Dock Limited was the first. We
+work with other organisations, institutions and people.
 
 ## Projects
 
@@ -35,6 +35,6 @@ and people.
 
 ## Started here, now independent
 
-**Tamesis Dock Limited** started at Octoply and now runs as its own business,
-operating floating venues on the Thames: [Tamesis Dock](https://www.tdock.co.uk/)
-on the Albert Embankment and [Battersea Barge](https://www.batterseabarge.com/).
+**Tamesis Dock Limited** started at Octoply in 2008 and is now a separate
+business. It runs two floating venues on the Thames: [Tamesis Dock](https://www.tdock.co.uk/)
+on the Albert Embankment, and [Battersea Barge](https://www.batterseabarge.com/).
