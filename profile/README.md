@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://octoply.com">octoply.com</a> ·
   <a href="https://www.linkedin.com/company/octoply/">LinkedIn</a> ·
-  <a href="mailto:contact@octoply.co.uk">contact@octoply.co.uk</a>
+  <a href="mailto:us@octoply.co">us@octoply.co</a>
 </p>
 
 ---
