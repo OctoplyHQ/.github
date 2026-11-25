@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
-    <img src="./logo-light.svg" width="280" alt="Octoply">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctoplyHQ/.github/main/profile/logo-dark.png">
+    <img src="https://raw.githubusercontent.com/OctoplyHQ/.github/main/profile/logo-light.png" width="280" height="70" alt="Octoply">
   </picture>
 </p>
 
