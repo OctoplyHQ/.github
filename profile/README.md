@@ -35,6 +35,7 @@ work with other organisations, institutions and people.
 
 ## Started here, now independent
 
-**Tamesis Dock Limited** started at Octoply in 2008 and is now a separate
-business. It runs two floating venues on the Thames: [Tamesis Dock](https://www.tdock.co.uk/)
-on the Albert Embankment, and [Battersea Barge](https://www.batterseabarge.com/).
+Octoply set up **Tamesis Dock Limited** in 2008 as a new company to run the bar
+on [Tamesis Dock](https://www.tdock.co.uk/), a boat on the Albert Embankment. It
+later bought [Battersea Barge](https://www.batterseabarge.com/), and now runs
+both venues as a separate business.
