@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <strong>A coordination company.</strong><br>
-  We originate ideas and develop them until they can stand on their own.
+  <strong>We turn things of little value into something useful.</strong><br>
+  Waste into ammonia and energy. Everyday chats and records into insight a team can act on.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ work with other organisations, institutions and people.
 
 ## Projects
 
-**FLO-RA** (Floating Reactor Ark): a concept for large-scale floating bioreactors in offshore environments
+**FLO-RA** (Floating Bioreactor): a concept for large-scale bioreactors that operate afloat in offshore environments
 - **FOR-NH** (Floating Reclaimed Ammonia): the ammonia-focused programme, and the current work
 
 **[Robin's Hood](https://r-hood.co/)**: a coordination system that records how work gets done and who did it
