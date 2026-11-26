@@ -26,8 +26,8 @@ work with other organisations, institutions and people.
 
 ## Projects
 
-**FLO-RA**: a concept for large-scale floating bioreactors in offshore environments
-- **FOR-NH**: Floating Reclaimed Ammonia, the ammonia-focused programme
+**FLO-RA** (Floating Reactor Ark): a concept for large-scale floating bioreactors in offshore environments
+- **FOR-NH** (Floating Reclaimed Ammonia): the ammonia-focused programme, and the current work
 
 **[Robin's Hood](https://r-hood.co/)**: a coordination system that records how work gets done and who did it
 - **Pacience**: the decision layer
